@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JudahWilson
 - 👀 I’m interested in software
 - 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on software
 - 📫 How to reach me judah.d.wilson@gmail.com, https://www.facebook.com/judah.wilson.96/
 
 <!---
